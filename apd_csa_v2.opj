@@ -1,0 +1,52 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\apd_csa_v2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "Administrator")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\administrator\desktop\20210907\apd_csa_v2.dsn")
+      (Path "Design Resources"
+         "c:\users\administrator\desktop\20210907\apd_csa_v2.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         "c:\users\administrator\desktop\20210907\apd_csa_v2.dsn" "SCHEMATIC1"
+         "Chan I"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 866"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1465 52 511")
+        (Scroll "0 0")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\20210907\APD_CSA_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Chan I"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1491 78 537")
+        (Scroll "-56 -7")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\20210907\APD_CSA_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER"))))
